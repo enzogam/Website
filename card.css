@@ -1,0 +1,42 @@
+.btn-discover {
+	background-color: #e7b2a5;
+	padding: 10px 30px;
+	box-shadow: 4px 4px 10px rgba(0, 0, 0)
+	border-radius: 4px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-family: "Raleway", sans-serif;
+}
+.btn-discover: hover {
+	box-shadow: 6px 6px 10px rgba()
+}
+
+.card{
+ /*   border: 1px solid rgba(0,0,0,0.3);*/
+    margin-top: 20px;
+    margin-right: 13px;
+    background-color: silver;
+    font-family:monospace;
+    border-radius: 4px;
+    padding: 30px;
+ /*   border: inset;*/
+    text-align: center;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+}
+
+.card-image {
+   
+   height: 200px;
+}
+
+.card-content h2{
+	font-size: 18px;
+	color: black;
+
+}
+
+.card-content p{
+  font-size: 16px;
+  color: black;
+}
